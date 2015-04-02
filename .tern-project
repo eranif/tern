@@ -1,6 +1,5 @@
 {
-  "libs": [
-  ],
+  "libs": [ "ecma5", "browser"],
   "plugins": {
     "node": {},
     "complete_strings": {}
