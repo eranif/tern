@@ -2,9 +2,9 @@
 OS=$1
 
 # rebase
-echo "Rebasing against original git repo..."
-git fetch upstream
-git rebase upstream/master
+#echo "Rebasing against original git repo..."
+#git fetch upstream
+#git rebase upstream/master
 
 # Windows
 rm -f .gitattributes
