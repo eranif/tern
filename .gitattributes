@@ -1,1 +1,2 @@
-test/**/* text eol=lf
+node.exe export-ignore
+node.osx export-ignore
