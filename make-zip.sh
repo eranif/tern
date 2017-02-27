@@ -37,4 +37,4 @@ cat .gitattributes
 git archive --worktree-attributes --format=zip --output=javascript.zip master
 
 echo "Copying ZIP files to CodeLite's tree"
-cp *.zip ../WebTools/
+cp *.zip ../codelite/WebTools/
